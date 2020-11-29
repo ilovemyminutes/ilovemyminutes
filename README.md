@@ -2,7 +2,7 @@
 Hi, this is Jihyeong! I'm enjoying learning about data analysis and machine-learning.  
 Recently, I'm interested in developing 'big data-based things' into good services😃.
 
-### Career
+### 🏃‍♀️Career
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
@@ -12,22 +12,23 @@ Recently, I'm interested in developing 'big data-based things' into good service
 | **Employment** | 2020.07 ~  | ML Developer (Intern), ML Dev team | **SolidWare** |
 | **Research activities** | 2020.09 ~ | Undergraduate Research Students | **Mathematics, University of Seoul** |
 
-### Experiences
+### 🤡Experience
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **Competition** | 2020.06 | [MSIT 2020 AI Online Competition](http://aifactory.space/aichallenge/)  | an ML assistant of company *Prediction*, developed OCR Model | **MSIT** |
+| **Competition** | 2019.05 ~ 07 | [KCB Financial Data Visualization Competition](https://dacon.io/competitions/official/82407/overview) | analyzed financial data, won the 1st place | **KCB, Dacon** |
 | **Competition** | 2019.11 ~ 2020.01 | [L.POINT The 6th Big Data Competition](https://competition.lpoint.com/front/Guideline.tran) | developed personalized product recommendation algorithm, won the 2nd place  | **Lotte Members** |
-| **Competition** | 2019.05 ~ 2019.07 | [KCB Financial Data Visualization Competition](https://dacon.io/competitions/official/82407/overview) | analyzed financial data, won the 1st place | **KCB, Dacon** |
+| **Competition** | 2020.06 | [MSIT 2020 AI Online Competition](http://aifactory.space/aichallenge/)  | an ML assistant of company *Prediction*, developed OCR Model | **MSIT** |
+| **Project** | 2020.06 ~ 07 | BITAmin Academic Club Competition | developed HipHop Lyrics generator, won the 1st place | **BITAmin** |
 
-### 🤖Skills
-* ML/DL: skit-learn, tensorflow, 
+### 🤖Skill
+* ML/DL: skit-learn, tensorflow
 * Data Analysis: pandas, numpy, matplotlib
 * Language/tool: Python, SQL, R, Tableau
 
 ### 🎨Interest
-* Painting(especially, calligraphy)
+* Painting(calligraphy😊)
 * Electronic products(well-designed Keyboards🙉)
-* Taking food photos(not cooking..)
+* Taking food photos(not cooking..😂)
 <!--
 **iloveslowfood/iloveslowfood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
