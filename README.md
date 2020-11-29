@@ -1,7 +1,7 @@
 ### 🤗Jihyeong Ko
 Hi there, this is Jihyeong! I'm enjoying learning about data analysis and AI.  
-Also, I'm interested in developing 'big data-based things' into good services recently😃.  
-Slowly and steadily, I'm trying to be better than yesterday🐢😉.
+Also, I'm interested in developing 'big data-based things' into good services recently.  
+Slowly and steadily, I'm trying to be better than yesterday😉.
 
 ### 🏃‍♀️Career
 
