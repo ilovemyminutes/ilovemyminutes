@@ -23,7 +23,7 @@ Steadily, I'm trying to be better than yesterday.
 
 ### 🤖Skills
 * ML/DL: Skit-Learn, TensorFlow, Keras
-* Data Analysis: Pandas, NumPy, Matplotlib
+* Data Analysis: Pandas, NumPy, Matplotlib, Selenium/BS4
 * Language/tool: Python, SQL, R, Tableau
 
 ### 🎨Interest
