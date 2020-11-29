@@ -8,7 +8,7 @@ Steadily, I'm trying to be better than yesterday.
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2015. 3 ~  | Double majored in Mathematics, Big Data Analytics | **University of Seoul** |
-| **External Activities** | 2019. 2 ~ 7 | Big Data Academic Club Member | **BITAmin** |
+| **External Activities** | 2019. 2 ~ 2020. 7 | Big Data Academic Club Member | **BITAmin** |
 | **Research Activities** | 2020. 3 ~ 5 | Undergraduate Research Students | **University of Seoul** |
 | **Employment** | 2020. 7 ~  | ML Developer Intern, ML Dev team | **SolidWare** |
 | **Research Activities** | 2020. 9 ~ | Undergraduate Research Students | **University of Seoul** |
