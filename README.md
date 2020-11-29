@@ -1,5 +1,16 @@
-### Hi there 👋
+### Jihyeong Ko👋
+Hi, this is Jihyeong. I'm enjoying learning about data analysis and machine-learning.  
+Recently, I'm interested in developing 'big data-based things' into good services😃.
 
+### Skills
+* 🤖ML/DL: skit-learn, tensorflow, 
+* 🤓Data Analysis: pandas, numpy, matplotlib
+* 🏃‍♀️Language/tool: Python, SQL, R, Tableau
+
+### Interest
+* 🎨Painting(especially, calligraphy)
+* 😎Well-designed Keyboard
+* 🍩Taking food photos
 <!--
 **iloveslowfood/iloveslowfood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
