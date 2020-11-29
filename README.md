@@ -26,10 +26,6 @@ Slowly and steadily, I'm trying to be better than yesterday🐢😉.
 * Data Analysis: Pandas, NumPy, Matplotlib, Selenium/BS4
 * Language/tool: Python, SQL, R, Tableau
 
-### 🎨Interest
-* Painting(calligraphy😊)
-* Electronic products(well-designed Keyboards🙉)
-* Taking food photos(not cooking..😂)
 <!--
 **iloveslowfood/iloveslowfood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
