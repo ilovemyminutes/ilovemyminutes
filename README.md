@@ -6,7 +6,7 @@ Recently, I'm interested in developing 'big data-based things' into good service
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Education** | 2015.03 ~  | Department of Mathematics, Big Data Analytics | **University of Seoul** |
+| **Education** | 2015.03 ~  | Double majored in Mathematics, Big Data Analytics | **University of Seoul** |
 | **External Activities** | 2019.02 ~ 07 | Big Data Academic Club Member | **BITAmin** |
 | **Research Activities** | 2020.03 ~ 05 | Undergraduate Research Students | **Mathematics, University of Seoul** |
 | **Employment** | 2020.07 ~  | ML Developer (Intern), ML Dev team | **SolidWare** |
@@ -15,9 +15,9 @@ Recently, I'm interested in developing 'big data-based things' into good service
 ### Experiences
 | **Type** | **Date** | **Contents** | **Host** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Competition** | 2020.06 | an assistant of company *Prediction*, Developed OCR Model | **MSIT** |
-| **Competition** | 2019.11 ~ 2020.01 | developed personalized product recommendation algorithm  | **Lotte Members** |
-| **Dev Project** | 2015.02 ~ 2015.03 | Department of Mathematics, Big Data Analytics | **KCB, Dacon** |
+| **Competition** | 2020.06 | an ML assistant of company *Prediction*, developed OCR Model | **MSIT** |
+| **Competition** | 2019.11 ~ 2020.01 | developed personalized product recommendation algorithm, won the 2nd place  | **Lotte Members** |
+| **Competition** | 2019.05 ~ 2019.07 | analyzed financial data, won the 1st place | **KCB, Dacon** |
 
 ### 🤖Skills
 * ML/DL: skit-learn, tensorflow, 
