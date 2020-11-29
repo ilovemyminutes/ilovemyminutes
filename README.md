@@ -1,6 +1,7 @@
 ### 👋Jihyeong Ko
 Hi there, this is Jihyeong! I'm enjoying learning about data analysis and AI.  
 Recently, I'm interested in developing 'big data-based things' into good services😃.
+I'm steadily trying to be a man of good value.
 
 ### 🏃‍♀️Career
 
@@ -10,7 +11,7 @@ Recently, I'm interested in developing 'big data-based things' into good service
 | **External Activities** | 2019. 2 ~ 7 | Big Data Academic Club Member | **BITAmin** |
 | **Research Activities** | 2020. 3 ~ 5 | Undergraduate Research Students | **Mathematics, University of Seoul** |
 | **Employment** | 2020. 7 ~  | ML Developer (Intern), ML Dev team | **SolidWare** |
-| **Research activities** | 2020. 9 ~ | Undergraduate Research Students | **Mathematics, University of Seoul** |
+| **Research Activities** | 2020. 9 ~ | Undergraduate Research Students | **Mathematics, University of Seoul** |
 
 ### 🤡Experience
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
