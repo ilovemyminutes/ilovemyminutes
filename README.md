@@ -1,5 +1,5 @@
 ### 👋Jihyeong Ko
-Hi, this is Jihyeong! I'm enjoying learning about data analysis and machine-learning.  
+Hi there, this is Jihyeong! I'm enjoying learning about data analysis and AI.  
 Recently, I'm interested in developing 'big data-based things' into good services😃.
 
 ### 🏃‍♀️Career
