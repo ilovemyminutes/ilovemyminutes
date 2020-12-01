@@ -22,8 +22,8 @@ Slowly and steadily, I'm trying to be better than yesterday😉.
 | **Project** | 2020. 6 ~ 7 | BITAmin Academic Club Free Project | [developed HipHop Lyrics generator](https://github.com/iloveslowfood/Text2Hip) | **BITAmin** |
 
 ### 🤖Skills
-* ML/DL: Skit-Learn, TensorFlow
-* Data Analysis: Pandas, NumPy, Matplotlib, Selenium/BS4
+* ML/DL: scikit-Learn, tensorflow
+* Data Analysis: pandas, numpy, matplotlib, selenium/bs4
 * Language/tool: Python, SQL, R, Tableau
 
 <!--
