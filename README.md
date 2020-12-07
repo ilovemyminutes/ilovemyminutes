@@ -13,7 +13,7 @@ Slowly and steadily, I'm trying to be better than yesterday😉.
 | **Employment** | 2020. 7 ~  | ML Developer Intern, ML Dev team | **SolidWare** |
 | **Research Activities** | 2020. 9 ~ | Undergraduate Research Students | **University of Seoul** |
 
-### 🤡Main Experiences
+### 🤡Activities
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | **Competition** | 2019. 5 ~ 7 | [KCB Financial Data Visualization Competition](https://dacon.io/competitions/official/82407/overview) | [analyzed financial data](https://github.com/iloveslowfood/8thKCBFinanceDataVisualization) / won the 1st place | **KCB, Dacon** |
