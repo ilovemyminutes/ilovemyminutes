@@ -10,7 +10,7 @@ Slowly and steadily, I'm trying to be better than yesterday😉.
 | **Education** | 2015. 3 ~  | Double majored in Mathematics, Big Data Analytics | **[University of Seoul](http://www.uos.ac.kr/intro.htm)** |
 | **External Activities** | 2019. 2 ~ 2020. 7 | Big Data Academic Club Member | **[BITAmin](https://cafe.naver.com/bitamin123)** |
 | **Research Activities** | 2020. 3 ~ 5 | Undergraduate Research Students | **[University of Seoul](http://www.uos.ac.kr/intro.htm)** |
-| **Employment** | 2020. 7 ~  | ML Developer Intern, ML Dev team | **[SolidWare](https://davincilabs.ai/ko)** |
+| **Employment** | 2020. 7 ~ 12 | ML Developer Intern, ML Dev team | **[SolidWare](https://davincilabs.ai/ko)** |
 | **Research Activities** | 2020. 9 ~ | Undergraduate Research Students | **[University of Seoul](http://www.uos.ac.kr/intro.htm)** |
 
 ### 🤡Activities
