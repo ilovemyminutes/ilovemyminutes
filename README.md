@@ -11,7 +11,7 @@ Slowly and steadily, I'm trying to be better than yesterday😉.
 | **External Activities** | 2019. 2 ~ 2020. 7 | Big Data Academic Club Member | **[BITAmin](https://cafe.naver.com/bitamin123)** |
 | **Research Activities** | 2020. 3 ~ 5 | Undergraduate Research Students | **[University of Seoul](http://www.uos.ac.kr/intro.htm)** |
 | **Employment** | 2020. 7 ~ 12 | ML Developer Intern, ML Dev team | **[SolidWare](https://davincilabs.ai/ko)** |
-| **Research Activities** | 2020. 9 ~ | Undergraduate Research Students | **[University of Seoul](http://www.uos.ac.kr/intro.htm)** |
+| **Research Activities** | 2020. 9 ~ 12 | Undergraduate Research Students | **[University of Seoul](http://www.uos.ac.kr/intro.htm)** |
 
 ### 🤡Activities
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
@@ -20,7 +20,7 @@ Slowly and steadily, I'm trying to be better than yesterday😉.
 | **Competition** | 2019. 11 ~ 2020. 1 | [L.POINT The 6th Big Data Competition](https://competition.lpoint.com/front/Guideline.tran) | [developed personalized product recommendation algorithm](https://github.com/iloveslowfood/6thLPOINTBigdataCompetition) / won the 2nd place  | **Lotte Members** |
 | **Competition** | 2020. 6 | [MSIT 2020 AI Online Competition](http://aifactory.space/aichallenge/)  | an ML assistant of company *Prediction*, developed OCR Model | **MSIT** |
 | **Project** | 2020. 6 ~ 7 | Academic Club Project | [developed HipHop Lyrics generator](https://github.com/iloveslowfood/Text2Hip) | **BITAmin** |
-| **Project** | 2020. 9 ~  | Capstone Project | [AI YouTube Consultant](https://github.com/iloveslowfood/AIYTBConsultant) | **University of Seoul** |
+| **Project** | 2020. 9 ~ 12 | Capstone Project | [AI YouTube Consultant](https://github.com/iloveslowfood/AIYTBConsultant) | **University of Seoul** |
 
 ### 🤖Skills
 * ML/DL: Scikit-Learn, TensorFlow
