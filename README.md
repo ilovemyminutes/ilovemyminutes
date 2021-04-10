@@ -24,7 +24,7 @@ Slowly and steadily, I'm trying to be better than yesterday😉.
 | **Project** | 2020.9~12 | Capstone Project | [AI YouTube Consultant](https://github.com/iloveslowfood/AIYTBConsultant) | **University of Seoul** |
 
 ### 🤖Skills
-* ML/DL: Scikit-Learn, TensorFlow
+* ML/DL: PyTorch, Scikit-Learn, TensorFlow
 * Data Analysis: Pandas, NumPy, MatplotLib, Selenium/BS4
 * Language/tool: Python, SQL, R, Tableau
 
