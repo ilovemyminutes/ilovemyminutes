@@ -22,7 +22,7 @@ Slowly and steadily, I'm trying to be better than yesterday😉.
 | **Competition** | 2020.6 | [MSIT 2020 AI Online Competition](http://aifactory.space/aichallenge/)  | an ML Dev assistant of company *Prediction* | **MSIT** |
 | **Project** | 2020.6~7 | Academic Club Project | [developed HipHop Lyrics generator](https://github.com/iloveslowfood/Text2Hip) | **BITAmin** |
 | **Project** | 2020.9~12 | Capstone Project | [AI YouTube Consultant](https://github.com/iloveslowfood/AIYTBConsultant) | **University of Seoul** |
-| **Project** | 2021.3 | Boostcamp AI Tech Project | [Maked Person Image Classification](https://github.com/iloveslowfood/p1-img-iloveslowfood) / 19th out of 224 | **NAVER CONNECT** |
+| **Project** | 2021.3 | Boostcamp AI Tech Project | [Human Mask State Image Classification](https://github.com/iloveslowfood/p1-img-iloveslowfood) / 19th out of 224 | **NAVER CONNECT** |
 
 ### 🤖Skills
 * ML/DL: PyTorch, Scikit-Learn, TensorFlow
