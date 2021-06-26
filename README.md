@@ -21,25 +21,10 @@ Slowly and steadily, I'm trying to be better than yesterday😉.
 | **Competition** | 2019.11~2020.1 | [L.POINT The 6th Big Data Competition](https://competition.lpoint.com/front/Guideline.tran) | [developed personalized product recommendation algorithm](https://github.com/iloveslowfood/6thLPOINTBigdataCompetition) / won the 2nd place  | **Lotte Members** |
 | **Competition** | 2020.6 | [MSIT 2020 AI Online Competition](http://aifactory.space/aichallenge/)  | an ML Dev assistant of company *Prediction* | **MSIT** |
 | **Project** | 2020.6~7 | Academic Club Project | [developed HipHop Lyrics generator](https://github.com/iloveslowfood/Text2Hip) | **BITAmin** |
-| **Competition** | 2021.3 | boostcamp AI Competition | [Human Mask State Image Classification](https://github.com/iloveslowfood/p1-img-iloveslowfood) / 19th out of 224 participants | **NAVER CONNECT** |
-| **Competition** | 2021.5~6 | boostcamp AI Competition | [Math Formula Recognition](https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you) / 1st out of 12 Teams | **NAVER CONNECT** |
+| **Competition** | 2021.3 | boostcamp AI Tech Competition | [Human Mask State Image Classification](https://github.com/iloveslowfood/p1-img-iloveslowfood) / 19th out of 224 participants | **NAVER CONNECT** |
+| **Competition** | 2021.5~6 | boostcamp AI Tech Competition | [Math Formula Recognition](https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you) / 1st out of 12 Teams | **NAVER CONNECT** |
 
 ### 🤖Skills
 * ML/DL: PyTorch, Scikit-Learn, TensorFlow
 * Data Analysis: Pandas, NumPy, MatplotLib, Selenium/BS4
 * Language/tool: Python
-
-<!--
-**iloveslowfood/iloveslowfood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
