@@ -23,7 +23,6 @@ Slowly and steadily, I'm trying to be better than yesterday:)
 | **Competition** | 2021.5~6 | boostcamp AI Tech Competition | [Math Formula Recognition](https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you) / 1st out of 12 Teams | **NAVER CONNECT** |
 | **Competition** | 2021.3 | boostcamp AI Tech Competition | [Human Mask State Image Classification](https://github.com/iloveslowfood/p1-img-iloveslowfood) / 19th out of 224 participants | **NAVER CONNECT** |
 | **Project** | 2020.6~7 | Academic Club Project | [developed HipHop Lyrics generator](https://github.com/iloveslowfood/Text2Hip) | **BITAmin** |
-| **Competition** | 2020.6 | [MSIT 2020 AI Online Competition](http://aifactory.space/aichallenge/)  | an ML Dev assistant of company *Prediction* | **MSIT** |
 | **Competition** | 2019.11~2020.1 | [L.POINT The 6th Big Data Competition](https://competition.lpoint.com/front/Guideline.tran) | [developed personalized product recommendation algorithm](https://github.com/iloveslowfood/6thLPOINTBigdataCompetition) / won the 2nd place  | **Lotte Members** | 
 | **Competition** | 2019.5~7 | [KCB Financial Data Visualization Competition](https://dacon.io/competitions/official/82407/overview) | [analyzed financial data](https://github.com/iloveslowfood/8thKCBFinanceDataVisualization) / won the 1st place | **KCB, Dacon** |
 
