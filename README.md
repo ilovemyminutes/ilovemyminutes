@@ -6,6 +6,15 @@ Slowly and steadily, I'm trying to be better than yesterday:)
 ### 👀Contact
 - Email. silkstaff@naver.com
 
+### 🤖Skills
+* ML/DL: PyTorch, Scikit-Learn, TensorFlow
+* Data Analysis: Pandas, NumPy, MatplotLib, Selenium/BS4
+* Language/tool: Python
+
+### ❤Interests
+* Optical Character Recognition
+* Recommender Systems
+
 ### 🏃‍♀️History
 
 | **Type** | **Date** | **Contents** | **Organization** |
@@ -25,11 +34,3 @@ Slowly and steadily, I'm trying to be better than yesterday:)
 | **Project** | 2020.6~7 | Academic Club Project | [developed HipHop Lyrics generator](https://github.com/iloveslowfood/Text2Hip) | **BITAmin** |
 | **Competition** | 2019.11~2020.1 | [L.POINT The 6th Big Data Competition](https://competition.lpoint.com/front/Guideline.tran) | [developed personalized product recommendation algorithm](https://github.com/iloveslowfood/6thLPOINTBigdataCompetition) / won the 2nd place  | **Lotte Members** | 
 | **Competition** | 2019.5~7 | [KCB Financial Data Visualization Competition](https://dacon.io/competitions/official/82407/overview) | [analyzed financial data](https://github.com/iloveslowfood/8thKCBFinanceDataVisualization) / won the 1st place | **KCB, Dacon** |
-
-
-
-
-### 🤖Skills
-* ML/DL: PyTorch, Scikit-Learn, TensorFlow
-* Data Analysis: Pandas, NumPy, MatplotLib, Selenium/BS4
-* Language/tool: Python
