@@ -12,7 +12,7 @@ Slowly and steadily, I'm trying to be better than yesterday:)
 * Language/Tool: Python
 
 ### ❤Interests
-* Optical Character Recognition
+* Vision - Optical Character Recognition, Image Generation
 * Recommender Systems
 
 ### 🏃‍♀️History
