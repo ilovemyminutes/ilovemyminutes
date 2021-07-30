@@ -9,7 +9,7 @@ Slowly and steadily, I'm trying to be better than yesterday:)
 ### 🤖Skills
 * ML/DL: PyTorch, Scikit-Learn, TensorFlow
 * Data Analysis: Pandas, NumPy, MatplotLib, Selenium/BS4
-* Language/tool: Python
+* Language/Tool: Python
 
 ### ❤Interests
 * Optical Character Recognition
