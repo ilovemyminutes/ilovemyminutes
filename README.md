@@ -29,6 +29,7 @@ Slowly and steadily, I'm trying to be better than yesterday:)
 ### 🤡Activities
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
+| **Competition** | 2021.7~ | [Camera Image Quality Improvement AI Competition](https://dacon.io/competitions/official/235746/overview/description) | Ongoing😎 | **DACON / LG AI Reasearch** |
 | **Competition** | 2021.5~6 | boostcamp AI Tech Competition | [Math Formula Recognition](https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you) / 1st out of 12 Teams | **NAVER CONNECT** |
 | **Competition** | 2021.3 | boostcamp AI Tech Competition | [Human Mask State Image Classification](https://github.com/iloveslowfood/p1-img-iloveslowfood) / 19th out of 224 participants | **NAVER CONNECT** |
 | **Project** | 2020.6~7 | Academic Club Project | [developed HipHop Lyrics generator](https://github.com/iloveslowfood/Text2Hip) | **BITAmin** |
