@@ -14,6 +14,7 @@ Slowly and steadily, I'm trying to be better than yesterday:)
 ### ❤Interests
 * Vision - Optical Character Recognition, Image Generation
 * Recommender Systems
+* MLOps
 
 ### 🏃‍♀️History
 
