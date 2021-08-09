@@ -20,7 +20,6 @@ Slowly and steadily, I'm trying to be better than yesterday:)
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-<!-- | **Employment** | 2021.8~ | AI Engineer Intern | **NAVER CLOVA** | -->
 | **External Activity** | 2021.1~6 | [Boostcamp AI Tech](https://boostcamp.connect.or.kr/) | **[NAVER CONNECT](https://www.connect.or.kr/)** |
 | **Research Activity** | 2020.9~12 | Undergraduate Research Students | **[University of Seoul](http://www.uos.ac.kr/intro.htm)** |
 | **Employment** | 2020.7~12 | ML Developer Intern, ML Dev team | **[SolidWare](https://davincilabs.ai/ko)** |
