@@ -10,11 +10,11 @@ Slowly and steadily, I'm trying to be better than yesterday:)
 ### 🤖Skills
 * ML/DL: PyTorch, Scikit-Learn, TensorFlow
 * Data Analysis: Pandas, NumPy, MatplotLib, Selenium/BS4
-* Language/Tool: Python
+* Language: Python
 
 ### ❤Interests
 * Vision - Optical Character Recognition, Image Generation
-* Recommender Systems
+* RecSys
 * MLOps
 
 ### 🏃‍♀️History
