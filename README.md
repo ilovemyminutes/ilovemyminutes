@@ -5,6 +5,7 @@ Slowly and steadily, I'm trying to be better than yesterday:)
 
 ### 👀Contact
 - Email. silkstaff@naver.com
+- (it looks fun if I have a chance to study with you seeing this:D)
 
 ### 🤖Skills
 * ML/DL: PyTorch, Scikit-Learn, TensorFlow
