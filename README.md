@@ -4,8 +4,7 @@ Also, I'm interested in developing 'big data-based things' into good services re
 Slowly and steadily, I'm trying to be better than yesterday:)
 
 ### 👀Contact
-- Email. silkstaff@naver.com
-- It looks fun if I have a chance to study/develop something with you seeing this:D
+- Email. silkstaff@naver.com (looks fun to have a chance to study/develop something with you seeing this:D)
 
 ### 🤖Skills
 * ML/DL: PyTorch, Scikit-Learn, TensorFlow
