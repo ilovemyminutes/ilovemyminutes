@@ -11,10 +11,10 @@ Slowly and steadily, I'm trying to be better than yesterday:)
 * Data Analysis: Pandas, NumPy, MatplotLib, Selenium/BS4
 * Language: Python
 
-<!-- ### ❤Interests
-* Vision - Optical Character Recognition, Image Generation
+### ❤Interests
+* Vision
 * RecSys
-* MLOps -->
+* MLOps
 
 ### 🏃‍♀️History
 
