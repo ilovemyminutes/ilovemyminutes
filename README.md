@@ -12,7 +12,7 @@ Slowly and steadily, I'm trying to be better than yesterday:)
 * Language: Python
 
 ### ❤Interests
-* Vision
+* Multimodal Learning
 * RecSys
 * MLOps
 
