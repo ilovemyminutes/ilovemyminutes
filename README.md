@@ -1,7 +1,7 @@
 ### 🤗Jihyeong Ko
-Hi there, this is Jihyeong! I'm enjoying learning about AI and data analysis.  
-Also, I'm interested in developing 'big data-based things' into good services recently.  
-Slowly and steadily, I'm trying to be better than yesterday:)
+Hi there, this is Jihyeong Ko enjoying learning AI or machine learning.  
+These days, I'm interested in developing AI-based services for users' satisfaction.  
+Towards a great engineer in AI field, I just keep rocking day by day😎.
 
 ### 👀Contact
 - Email. silkstaff@naver.com (looks fun to have a chance to study/develop something with you seeing this:D)
