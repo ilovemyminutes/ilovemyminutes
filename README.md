@@ -1,5 +1,5 @@
 ### 🤗Jihyeong Ko
-Hi there, this is Jihyeong Ko enjoying learning AI or machine learning.  
+Hi there, this is Jihyeong Ko enjoying studying AI or machine learning.  
 These days, I'm interested in developing AI-based services for users' satisfaction.  
 Towards a great engineer in AI field, I just keep rocking day by day😎.
 
