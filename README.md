@@ -8,7 +8,7 @@ Towards a great engineer in the AI field, I just keep rocking day by day👊.
 
 ### 🤖Skills
 * ML/DL: PyTorch, Scikit-Learn, TensorFlow
-* Data Analysis: Pandas, NumPy, MatplotLib, Selenium/BS4
+* Data Analysis: Pandas, NumPy, Seaborn/MatplotLib, Selenium/BS4
 * Language: Python
 
 ### ❤Interests
