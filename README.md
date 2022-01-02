@@ -12,8 +12,8 @@ Towards a great engineer in the AI field, I just keep rocking day by day👊.
 * Language: Python
 
 ### ❤Interests
-* Multimodal Learning
 * RecSys
+* Multimodal Learning
 * MLOps
 
 ### 🏃‍♀️History
