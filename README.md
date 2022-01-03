@@ -7,7 +7,7 @@ Towards a great engineer in the AI field, I just keep rocking day by day👊.
 - Email. silkstaff@naver.com (looks fun to have a chance to study/develop something with you seeing this:D)
 
 ### 🤖Skills
-* ML/DL: PyTorch, HuggingFace, Scikit-Learn, TensorFlow
+* ML/DL: PyTorch, Scikit-Learn, TensorFlow
 * Data Analysis: Pandas, NumPy, Seaborn/MatplotLib, Selenium/BS4
 * Language: Python
 
