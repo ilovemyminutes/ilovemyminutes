@@ -5,7 +5,7 @@ Towards a great engineer in the AI field, I just keep rocking day by day👊.
 
 ### 👀Contact
 - Email. silkstaff@naver.com
-- KakaoTalk ID. silkstaff777
+- KakaoTalk. silkstaff777
 
 ### 🤖Skills
 * ML/DL: PyTorch, Scikit-Learn, TensorFlow
