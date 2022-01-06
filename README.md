@@ -4,7 +4,8 @@ These days, I'm interested in developing AI-based services for users' satisfacti
 Towards a great engineer in the AI field, I just keep rocking day by day👊.
 
 ### 👀Contact
-- Email. silkstaff@naver.com (looks fun to have a chance to study/develop something with you seeing this:D)
+- Email. silkstaff@naver.com
+- KakaoTalk ID. silkstaff777
 
 ### 🤖Skills
 * ML/DL: PyTorch, Scikit-Learn, TensorFlow
