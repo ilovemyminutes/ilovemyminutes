@@ -15,7 +15,6 @@ Towards a great engineer in the AI field, I just keep rocking day by day👊.
 ### ❤Interests
 * RecSys
 * Multimodal Learning
-* MLOps
 
 ### 🏃‍♀️History
 
