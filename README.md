@@ -31,7 +31,6 @@ Towards a great engineer in the AI field, I just keep rocking day by day👊.
 ### 🤡Activities
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **Open Source** | 2022.1~ | Music Playlist RecSys | text-intent-based music recommendation (work in progress)  | - |
 | **Competition** | 2021.7~8 | [DACON Camera Image Quality Improvement](https://dacon.io/competitions/official/235746/overview/description) | developed image quality improver / 3rd out of 1,123 teams | **LG AI Research** |
 | **Competition** | 2021.5~6 | boostcamp AI Tech Competition | [developed math formula recognizer](https://github.com/bcaitech1/p4-fr-sorry-math-but-love-you) / 1st out of 12 Teams | **NAVER CONNECT** |
 | **Project** | 2020.6~7 | Academic Club Project | [developed HipHop Lyrics generator](https://github.com/iloveslowfood/Text2Hip) | **BITAmin** |
