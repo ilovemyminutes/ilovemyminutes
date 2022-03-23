@@ -1,6 +1,6 @@
 ### 🤗Jihyeong Ko
 Hi there, this is Jihyeong Ko enjoying AI or machine learning.  
-These days, I'm interested in developing AI-based services for users' satisfaction.  
+I'm interested in AI-based services for users' satisfaction these days.  
 Towards a great engineer in the AI field, I just keep rocking day by day👊.
 
 ### 👀Contact
