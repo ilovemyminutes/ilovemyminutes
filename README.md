@@ -13,7 +13,7 @@ Towards a great engineer, I just keep rocking day by day👊.
 * Language: Python
 
 ### ❤Interests
-* RecSys
+* Recommender System
 * Multimodal Learning
 
 ### 🏃‍♀️History
