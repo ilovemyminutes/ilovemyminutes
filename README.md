@@ -1,7 +1,7 @@
 ### 🤗Jihyeong Ko
-Hi there, this is Jihyeong Ko enjoying AI business.  
+Hi there, this is Jihyeong Ko enjoying AI field.  
 I'm interested in AI-based services for users' satisfaction these days.  
-Towards a great engineer, I just keep rocking day by day👊.
+Towards a specialist, I just keep rocking day by day👊.
 
 ### 👀Contact
 - Email. silkstaff@naver.com
