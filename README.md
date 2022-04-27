@@ -20,8 +20,8 @@ Towards a great engineer, I just keep rocking day by day👊.
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Employment** | 2022.5~ | ML Engineer, WATCHA ML  | **[WATCHA](https://watcha.com/browse/video)** |
-| **Employment** | 2021.8~2022.1 | AI Research Engineer Intern, ML X | **[NAVER CLOVA](https://clova.ai/ko)** |
+| **Employment** | 2022.5~ | ML Engineer, WATCHA ML team  | **[WATCHA](https://watcha.com/browse/video)** |
+| **Employment** | 2021.8~2022.1 | AI Research Engineer Intern, ML X team | **[NAVER CLOVA](https://clova.ai/ko)** |
 | **External Activity** | 2021.1~6 | [boostcamp AI Tech](https://boostcamp.connect.or.kr/) | **[NAVER CONNECT](https://www.connect.or.kr/)** |
 | **Research Activity** | 2020.9~12 | Undergraduate Research Student | **[University of Seoul](http://www.uos.ac.kr/intro.htm)** |
 | **Employment** | 2020.7~12 | ML Developer Intern, ML Dev team | **[ailys](https://davincilabs.ai/ko)** |
