@@ -1,22 +1,22 @@
-### 🤗Jihyeong Ko
+### Jihyeong Ko
 Hi there, this is Jihyeong Ko enjoying AI field.  
 I'm interested in AI-based services for users' satisfaction these days.  
-Towards a specialist, I just keep rocking day by day👊.
+Towards a specialist, I just keep rocking day by day.
 
-### 👀Contact
+### Contact
 - Email. silkstaff@naver.com
 - KakaoTalk. silkstaff777
 
-### 🤖Skills
+### Skills
 * ML/DL: PyTorch, Scikit-Learn, TensorFlow
 * Data Analysis: Pandas, NumPy, Seaborn/MatplotLib, Selenium/BS4
 * Language: Python
 
-### ❤Interests
+### Interests
 * Recommender System
 * Multimodal Learning
 
-### 🏃‍♀️History
+### History
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
@@ -29,7 +29,7 @@ Towards a specialist, I just keep rocking day by day👊.
 | **Education** | 2015.3~2021.02  | Double majored in Mathematics, Big Data Analytics | **[University of Seoul](http://www.uos.ac.kr/intro.htm)** |
 
 
-### 🤡Activities
+### Activities
 | **Type** | **Date** | **Title** |**Contents** | **Host** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | **Paper Work** | 2022.3~7 | ***(2022) Contrastive Learning for Topic-Dependent Image Ranking*** | proposed an image ranking approach considering a topic | [**The 4th Workshop on RecSys in Fashion & Retail**](https://recsys.acm.org/recsys22/fashionxrecsys/) |
