@@ -5,7 +5,7 @@ Towards a specialist, I just keep rocking day by day.
 
 ### Contact
 - Email. silkstaff@naver.com
-- KakaoTalk. silkstaff777
+- LinkedIn. [Jihyeong Ko](https://www.linkedin.com/in/jihyeongko/)
 
 ### Skills
 * ML/DL: PyTorch, Scikit-Learn, TensorFlow
