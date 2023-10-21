@@ -3,10 +3,6 @@ Hi there, this is Jihyeong Ko enjoying AI field.
 I'm interested in AI-based services for users' satisfaction these days.  
 Towards a specialist, I just keep rocking day by day.
 
-### Contact
-- Email. silkstaff@naver.com
-- LinkedIn. [Public Profile Link](https://www.linkedin.com/in/jihyeongko/)
-
 ### Skills
 * ML/DL: PyTorch, Scikit-Learn, TensorFlow
 * Data Analysis: Pandas, NumPy, Seaborn/MatplotLib, Selenium/BS4
