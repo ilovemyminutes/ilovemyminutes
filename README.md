@@ -18,7 +18,7 @@ Towards a specialist, I just keep rocking day by day.
 |:--------:|:--------:|:--------:|:--------:|
 | **Employment** | 2022.5~2023.12 | ML Research Engineer, ML team | **[WATCHA Inc.](https://watcha.com/browse/video)** |
 | **Employment** | 2021.8~2022.1 | ML Research Engineer (Intern), [CLOVA](https://clova.ai/ko) ML X team | **[NAVER Corp.](https://www.navercorp.com)** |
-| **External Activity** | 2021.1~6 | [boostcamp AI Tech](https://boostcamp.connect.or.kr/) | **[NAVER CONNECT](https://www.connect.or.kr/)** |
+| **External Activity** | 2021.1~6 | [boostcamp AI Tech](https://boostcamp.connect.or.kr/) | **[NAVER CONNECT Foundation.](https://www.connect.or.kr/)** |
 | **Research Activity** | 2020.9~12 | Undergraduate Research Student | **[University of Seoul](http://www.uos.ac.kr/intro.htm)** |
 | **Employment** | 2020.7~12 | ML Research Engineer (Intern), ML Dev team | **[ailys Co., Ltd.](https://davincilabs.ai/ko)** |
 | **External Activity** | 2019.2~2020.7 | Big Data Academic Club Member | **[BITAmin](https://cafe.naver.com/bitamin123)** |
