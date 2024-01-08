@@ -16,6 +16,7 @@ Towards a specialist, I just keep rocking day by day.
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
+| **Employment** | 2024.1~ | ML Research Engineer, AD Platform team | **[NAVER Corp.](https://www.navercorp.com)** |
 | **Employment** | 2022.5~2023.12 | ML Research Engineer, ML team | **[WATCHA Inc.](https://watcha.com/browse/video)** |
 | **Employment** | 2021.8~2022.1 | ML Research Engineer (Intern), [CLOVA](https://clova.ai/ko) ML X team | **[NAVER Corp.](https://www.navercorp.com)** |
 | **External Activity** | 2021.1~6 | [boostcamp AI Tech](https://boostcamp.connect.or.kr/) | **[NAVER CONNECT](https://www.connect.or.kr/)** |
